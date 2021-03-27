@@ -1,0 +1,78 @@
+import UIKit
+
+var str = "Hello, playground"
+var str1 = "Hola Hermoso Mundo,me llamo Daniel Garcia Espinosa"
+var str2:String = "Tengo 23 años"
+var num_dec = 3.1416
+var entero = 117
+var cadena:String = "Naci en la Ciudad de México"
+var caneda2 = "Naci el 18 de Junio del año 1998"
+
+cadena = "Sufro de alcoholismo,ayuda"
+entero = 2
+
+var numero:Array<Int> = Array<Int>()
+numero.append(0)
+numero.append(1)
+numero.append(2)
+numero.append(3)
+numero.append(4)
+numero.append(5)
+numero.append(6)
+numero.append(7)
+numero.append(8)
+numero.append(9)
+numero.append(10)
+numero.append(11)
+numero.append(12)
+numero.append(13)
+numero.append(14)
+numero.append(15)
+numero.append(16)
+numero.append(17)
+numero.append(18)
+numero.append(19)
+numero.append(20)
+numero.append(21)
+numero.append(22)
+numero.append(23)
+numero.append(24)
+numero.append(25)
+numero.append(26)
+numero.append(27)
+numero.append(28)
+numero.append(29)
+numero.append(30)
+
+var diasSemana:Dictionary<String, Int> =
+Dictionary<String, Int>()
+diasSemana = ["Lunes":1]
+diasSemana = ["Martes":2]
+diasSemana = ["Miecoles":3]
+diasSemana = ["jueves":4]
+diasSemana = ["Viernes":5]
+diasSemana = ["Sabado":6]
+diasSemana = ["Domingo":7]
+diasSemana = ["Lunes":8]
+diasSemana = ["Martes":9]
+diasSemana = ["Miercoles":10]
+diasSemana = ["Jueves":11]
+diasSemana = ["Viernes":12]
+diasSemana = ["Sabado":13]
+diasSemana = ["Domingo":14]
+diasSemana = ["Lunes":15]
+diasSemana = ["Martes":16]
+diasSemana = ["Miercoles":17]
+diasSemana = ["Jueves":18]
+diasSemana = ["Vierne":19]
+diasSemana = ["Sabado":20]
+diasSemana = ["Domingo":21]
+diasSemana = ["Lunes":22]
+diasSemana = ["Martes":23]
+diasSemana = ["Miercoles":24]
+diasSemana = ["Jueves":25]
+diasSemana = ["Viernes":26]
+diasSemana = ["Sabado":27]
+diasSemana = ["Domingo":28]
+diasSemana = ["Lunes":29]
+diasSemana = ["Martes":30]
